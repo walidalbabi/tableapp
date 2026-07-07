@@ -1,0 +1,6 @@
+{
+  "name": "منشئ الجداول التعليمية",
+  "description": "The application allows teachers to create simple educational tables in Arabic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
